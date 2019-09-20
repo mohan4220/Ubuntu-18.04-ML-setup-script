@@ -10,6 +10,9 @@ run the script using
 
 # Credits
 This script was made by Harrison. He runs an youtube channel named "Sentdex".
+
+His github repo --> https://github.com/Sentdex
+
 This Script was mentioned in his youtube video -->> https://www.youtube.com/watch?v=qWGgK4IrH-s .
 The link to his channel -->> https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
 
